@@ -1,5 +1,4 @@
 class Baby < Human
-
 	def output_speak
 		puts "goo-goo gaa-gaa"
 	end
