@@ -4,7 +4,7 @@ class Human
 	end
 
 	def output_human
-		puts output_speak
+		output_speak
 		output_age
 		output_gender
 		output_height

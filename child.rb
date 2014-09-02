@@ -12,7 +12,7 @@ class Baby < Human
 	end
 
 	def output_food_preference
-		puts "I eat milk and mushy things"
+		puts "I drink milk and eat mushy things"
 	end
 
 	def output_age
